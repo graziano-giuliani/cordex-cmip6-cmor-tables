@@ -249,19 +249,24 @@
             "BCCR-UCAN": "BCCR [Bjerknes Center for Climate Research (BCCR), NORCE Norwegian Research Center, Bergen, Norway]; UCAN [Instituto de Fisica de Cantabria (IFCA), CSIC-Universidad de Cantabria, Santander, Spain]",
             "BOM": "Bureau of Meteorology, Melbourne, Australia",
             "CCCma": "Canadian Centre for Climate Modelling and Analysis, Environment and Climate Change Canada, Victoria (British Columbia), Canada",
+            "CESAM-UA": "Center for Environmental and Marine Studies (CESAM), Aveiro University (UA), Aveiro, Portugal",
+            "CLMcom-AWI": "Climate Limited-area Modelling Community (CLMcom) partner: Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany",
             "CLMcom-BTU": "Climate Limited-area Modelling Community (CLMcom) partner: Brandenburgische Technische Universitaet Cottbus-Senftenberg, Cottbus, Germany",
             "CLMcom-CMCC": "Climate Limited-area Modelling Community (CLMcom) partner: Euro-Mediterranean Center on Climate Change (CMCC Foundation), Caserta, Italy",
             "CLMcom-DWD": "Climate Limited-area Modelling Community (CLMcom) partner: Deutscher Wetterdienst, Offenbach am Main, Germany",
             "CLMcom-ETH": "Climate Limited-area Modelling Community (CLMcom) partner: Federal Institute of Technology Zurich, Zurich, Switzerland",
             "CLMcom-FZJ": "Climate Limited-area Modelling Community (CLMcom) partner: Forschungszentrum Juelich (FZJ), Juelich, Germany",
             "CLMcom-GERICS": "Climate Limited-area Modelling Community (CLMcom) partner: Climate Service Center Germany, Hamburg, Germany",
+            "CLMcom-GUF": "Climate Limited-area Modelling Community (CLMcom) partner: Goethe University Frankfurt, Frankfurt am Main, Germany",
             "CLMcom-Hereon": "Climate Limited-area Modelling Community (CLMcom) partner: Helmholtz-Zentrum Hereon, Geesthacht, Germany",
             "CLMcom-IMWM": "Climate Limited-area Modelling Community (CLMcom) partner: Institute of Meteorology and Water Management, Warsaw, Poland",
             "CLMcom-KIT": "Climate Limited-area Modelling Community (CLMcom) partner: Karlsruhe Institute of Technology, Eggenstein-Leopoldshafen, Germany",
             "CLMcom-KUL": "Climate Limited-area Modelling Community (CLMcom) partner: KU Leuven, Leuven, Belgium",
+            "CLMcom-LIST": "Climate Limited-area Modelling Community (CLMcom) partner: Luxembourg Institute of Science and Technology, Esch-sur-Alzette, Luxembourg",
             "CNRM": "Centre National de Recherches Meteorologiques, Toulouse, France",
             "CNRM-MF": "CNRM [Centre National de Recherches Meteorologiques, Toulouse, France]; MF [Meteo France, Toulouse, France]",
             "DWD-BSH": "DWD [Deutscher Wetterdienst, Offenbach am Main, Germany]; BSH [Bundesamt fuer Seeschifffahrt und Hydrographie, Hamburg, Germany]",
+            "ENEA": "Italian National Agency for New Technologies, Energy and the Environment, Rome, Italy",
             "GERICS": "Climate Service Center Germany, Helmholtz Centre hereon GmbH, Hamburg, Germany",
             "HCLIMcom-DMI": "HARMONIE Climate Modelling Community (HCLIMcom) partner: Danish Meteorological Institute (DMI), Copenhagen, Denmark",
             "HCLIMcom-METNo": "HARMONIE Climate Modelling Community (HCLIMcom) partner: Norwegian Meteorological Institute (METNo), Oslo, Norway",
@@ -271,8 +276,10 @@
             "IRD-MF": "IRD [Institut de Recherche pour le Developpement, Noumea (New Caledonia), France]; MF [Meteo France, Toulouse, France]",
             "KNMI": "Royal Netherlands Meteorological Institute, De Bilt, The Netherlands",
             "MOHC": "Met Office Hadley Centre, Exeter, UK",
+            "NCAR": "NSF National Center for Atmospheric Research, Boulder (Colorado), USA",
             "NIMS-KMA": "National Institute of Meteorological Sciences, Korea Meteorological Administration, Seogwipo-si, Republic of Korea",
             "NKUA": "Department of Physics, National and Kapodistrian University of Athens, Athens, Greece",
+            "NORCE-BCCR": "NORCE [NORCE Norwegian Research Centre, Bergen, Norway]; BCCR [Bjerknes Centre for Climate Research, Bergen, Norway]",
             "OURANOS": "Ouranos Consortium, Montreal (Quebec), Canada",
             "RMIB-UGent": "RMIB [Royal Meteorological Institute of Belgium, Brussels, Belgium]; UGent [Ghent University, Ghent, Belgium]",
             "UBA-CIMA-IFAECI": "UBA [Universidad de Buenos Aires, C. A. Buenos Aires (CABA), Argentina]; CIMA [Centro de Investigaciones del Mar y la Atmosfera, C. A. Buenos Aires (CABA), Argentina]; IFAECI [Instituto Franco-Argentino sobre Estudios de Clima y sus Impactos, C. A. Buenos Aires (CABA), Argentina]",
@@ -1504,6 +1511,22 @@
                 "source_type": "ARCM",
                 "source": "Canadian Regional Climate Model version 5, with spectral nudging (2024)"
             },
+            "ENEA-REG3": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "ENEA"
+                ],
+                "label": "ENEA-REG v3.0",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "ENEA-REG3",
+                "source_type": "AORCM",
+                "source": "The ENEA-REG regional Earth System Model version 3.0 based on WRF v4.2.2, MITgcm z67, and CaMa-Flood v4.10 (2021)"
+            },
             "GCOAST-AHOI1-1": {
                 "activity_participation": [
                     "DD"
@@ -1585,6 +1608,22 @@
                 "source_id": "HadREM3-GA7-05",
                 "source_type": "ARCM",
                 "source": "Hadley Centre Regional Model using Global Atmosphere version 7-05 (2018)"
+            },
+            "ICON-CLM-202401-1-1": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "CLMcom-AWI"
+                ],
+                "label": "ICON-CLM-202401-1-1",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "ICON-CLM-202401-1-1",
+                "source_type": "ARCM",
+                "source": "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202401-1-1 (2024)"
             },
             "ICON-CLM-202407-1-1": {
                 "activity_participation": [
@@ -1689,7 +1728,7 @@
                 "source_type": "ARCM",
                 "source": "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing and Fresh-water Lake model (FLake) (2023)"
             },
-            "REMO2020-2-2-iMove": {
+            "REMO2020-2-2-MR2": {
                 "activity_participation": [
                     "DD"
                 ],
@@ -1699,11 +1738,43 @@
                 "institution_id": [
                     "GERICS"
                 ],
-                "label": "REMO2020 v2.2 iMove",
+                "label": "REMO2020 v2.2 MERRA-2",
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
-                "source_id": "REMO2020-2-2-iMove",
+                "source_id": "REMO2020-2-2-MR2",
                 "source_type": "ARCM",
-                "source": "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing, Fresh-water Lake model (FLake) and interactive Vegetation (iMove, static) (2023)"
+                "source": "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MERRA-2 aerosol climatology and Fresh-water Lake model (FLake) (2023)"
+            },
+            "REMO2020-2-2-iMOVE": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "GERICS"
+                ],
+                "label": "REMO2020 v2.2 iMOVE",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "REMO2020-2-2-iMOVE",
+                "source_type": "ARCM",
+                "source": "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing, Fresh-water Lake model (FLake) and interactive Vegetation (iMOVE, static) (2023)"
+            },
+            "REMO2020-2-2-iMOVE-LUC": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "GERICS"
+                ],
+                "label": "REMO2020 v2.2 iMOVE-LUC",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "REMO2020-2-2-iMOVE-LUC",
+                "source_type": "ARCM",
+                "source": "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing, Fresh-water Lake model (FLake) and interactive Vegetation (iMOVE) with land use change (LUC) from the LUCAS LUC dataset (2023)"
             },
             "ROAM-NBS": {
                 "activity_participation": [
@@ -1720,6 +1791,22 @@
                 "source_id": "ROAM-NBS",
                 "source_type": "AORCM",
                 "source": "Regional coupled ocean-atmosphere model based on icon-2024.07 and NEMO4.2.0 for the North and Baltic Sea (2024)"
+            },
+            "RegCM-ES1-1": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "ICTP"
+                ],
+                "label": "RegCM-ES v1.1",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "RegCM-ES1-1",
+                "source_type": "AORCM",
+                "source": "The Regional Earth System Model RegCM-ES version 1.1 based on RegCM v5.0, MITgcm v6.9d and CHyM (2025)"
             },
             "RegCM5-0": {
                 "activity_participation": [
