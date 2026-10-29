@@ -28,228 +28,352 @@
             "version_realization"
         ],
         "activity_id": {
-            "DD": "Dynamical downscaling",
-            "ESD": "Empirical-statistical downscaling"
+            "DD": "Dynamical downscaling on standard CORDEX continental domains (CORDEX-Domain)",
+            "ESD": "Empirical-statistical downscaling",
+            "FPS-URB-RCC": "Flagship Pilot Study (FPS) URBan environments and Regional Climate Change",
+            "CPRCM": "Convection-Permitting Regional Climate Modelling"
         },
         "project_id": {
             "CORDEX-CMIP6": "CMIP6-driven Coordinated Regional Climate Downscaling Experiment"
         },
         "domain_id": {
-            "SAM-50": {
-                "domain": "South America",
-                "domain_id": "SAM-50"
-            },
-            "CAM-50": {
-                "domain": "Central America",
-                "domain_id": "CAM-50"
-            },
-            "NAM-50": {
-                "domain": "North America",
-                "domain_id": "NAM-50"
-            },
-            "EUR-50": {
-                "domain": "Europe",
-                "domain_id": "EUR-50"
-            },
-            "AFR-50": {
-                "domain": "Africa",
-                "domain_id": "AFR-50"
-            },
-            "WAS-50": {
-                "domain": "South Asia",
-                "domain_id": "WAS-50"
-            },
-            "EAS-50": {
-                "domain": "East Asia",
-                "domain_id": "EAS-50"
-            },
-            "CAS-50": {
-                "domain": "Central Asia",
-                "domain_id": "CAS-50"
-            },
-            "AUS-50": {
-                "domain": "Australasia",
-                "domain_id": "AUS-50"
-            },
-            "MED-50": {
-                "domain": "Mediterranean",
-                "domain_id": "MED-50"
-            },
-            "MNA-50": {
-                "domain": "Middle East and North Africa",
-                "domain_id": "MNA-50"
-            },
-            "MNA-25": {
-                "domain": "Middle East and North Africa",
-                "domain_id": "MNA-25"
-            },
-            "SAM-12": {
-                "domain": "South America",
-                "domain_id": "SAM-12"
-            },
-            "CAM-12": {
-                "domain": "Central America",
-                "domain_id": "CAM-12"
-            },
-            "NAM-12": {
-                "domain": "North America",
-                "domain_id": "NAM-12"
-            },
-            "EUR-12": {
-                "domain": "Europe",
-                "domain_id": "EUR-12"
-            },
             "AFR-12": {
                 "domain": "Africa",
                 "domain_id": "AFR-12"
             },
-            "WAS-12": {
-                "domain": "South Asia",
-                "domain_id": "WAS-12"
-            },
-            "EAS-12": {
-                "domain": "East Asia",
-                "domain_id": "EAS-12"
-            },
-            "CAS-12": {
-                "domain": "Central Asia",
-                "domain_id": "CAS-12"
-            },
-            "AUS-12": {
-                "domain": "Australasia",
-                "domain_id": "AUS-12"
-            },
-            "ANT-12": {
-                "domain": "Antarctica",
-                "domain_id": "ANT-12"
-            },
-            "ARC-12": {
-                "domain": "Arctic",
-                "domain_id": "ARC-12"
-            },
-            "MED-12": {
-                "domain": "Mediterranean",
-                "domain_id": "MED-12"
-            },
-            "MNA-12": {
-                "domain": "Middle East and North Africa",
-                "domain_id": "MNA-12"
-            },
-            "SAM-25": {
-                "domain": "South America",
-                "domain_id": "SAM-25"
-            },
-            "CAM-25": {
-                "domain": "Central America",
-                "domain_id": "CAM-25"
-            },
-            "NAM-25": {
-                "domain": "North America",
-                "domain_id": "NAM-25"
-            },
-            "EUR-25": {
-                "domain": "Europe",
-                "domain_id": "EUR-25"
+            "AFR-18": {
+                "domain": "Africa",
+                "domain_id": "AFR-18"
             },
             "AFR-25": {
                 "domain": "Africa",
                 "domain_id": "AFR-25"
             },
-            "WAS-25": {
-                "domain": "South Asia",
-                "domain_id": "WAS-25"
-            },
-            "EAS-25": {
-                "domain": "East Asia",
-                "domain_id": "EAS-25"
-            },
-            "CAS-25": {
-                "domain": "Central Asia",
-                "domain_id": "CAS-25"
-            },
-            "AUS-25": {
-                "domain": "Australasia",
-                "domain_id": "AUS-25"
-            },
-            "SEA-25": {
-                "domain": "South East Asia",
-                "domain_id": "SEA-25"
-            },
-            "SEA-12": {
-                "domain": "South East Asia",
-                "domain_id": "SEA-12"
-            },
-            "SAM-50i": {
-                "domain": "South America",
-                "domain_id": "SAM-50i"
-            },
-            "CAM-50i": {
-                "domain": "Central America",
-                "domain_id": "CAM-50i"
-            },
-            "NAM-50i": {
-                "domain": "North America",
-                "domain_id": "NAM-50i"
-            },
-            "EUR-50i": {
-                "domain": "Europe",
-                "domain_id": "EUR-50i"
+            "AFR-50": {
+                "domain": "Africa",
+                "domain_id": "AFR-50"
             },
             "AFR-50i": {
                 "domain": "Africa",
                 "domain_id": "AFR-50i"
             },
-            "WAS-50i": {
-                "domain": "South Asia",
-                "domain_id": "WAS-50i"
+            "ALPX-3": {
+                "domain": "Alps Extended",
+                "domain_id": "ALPX-3"
             },
-            "EAS-50i": {
-                "domain": "East Asia",
-                "domain_id": "EAS-50i"
+            "ANT-12": {
+                "domain": "Antarctica",
+                "domain_id": "ANT-12"
             },
-            "CAS-50i": {
-                "domain": "Central Asia",
-                "domain_id": "CAS-50i"
-            },
-            "AUS-50i": {
-                "domain": "Australasia",
-                "domain_id": "AUS-50i"
+            "ANT-12i": {
+                "domain": "Antarctica",
+                "domain_id": "ANT-12i"
             },
             "ANT-50i": {
                 "domain": "Antarctica",
                 "domain_id": "ANT-50i"
             },
+            "ARC-12": {
+                "domain": "Arctic",
+                "domain_id": "ARC-12"
+            },
+            "ARC-12i": {
+                "domain": "Arctic",
+                "domain_id": "ARC-12i"
+            },
             "ARC-50i": {
                 "domain": "Arctic",
                 "domain_id": "ARC-50i"
             },
-            "MED-50i": {
-                "domain": "Mediterranean",
-                "domain_id": "MED-50i"
+            "AUS-12": {
+                "domain": "Australasia",
+                "domain_id": "AUS-12"
             },
-            "MNA-50i": {
-                "domain": "Middle East and North Africa",
-                "domain_id": "MNA-50i"
+            "AUS-12i": {
+                "domain": "Australasia",
+                "domain_id": "AUS-12i"
             },
-            "MNA-25i": {
-                "domain": "Middle East and North Africa",
-                "domain_id": "MNA-25i"
+            "AUS-20i": {
+                "domain": "Australasia",
+                "domain_id": "AUS-20i"
+            },
+            "AUS-25": {
+                "domain": "Australasia",
+                "domain_id": "AUS-25"
+            },
+            "AUS-25i": {
+                "domain": "Australasia",
+                "domain_id": "AUS-25i"
+            },
+            "AUS-50": {
+                "domain": "Australasia",
+                "domain_id": "AUS-50"
+            },
+            "AUS-50i": {
+                "domain": "Australasia",
+                "domain_id": "AUS-50i"
+            },
+            "CAM-12": {
+                "domain": "Central America",
+                "domain_id": "CAM-12"
+            },
+            "CAM-12i": {
+                "domain": "Central America",
+                "domain_id": "CAM-12i"
+            },
+            "CAM-18": {
+                "domain": "Central America",
+                "domain_id": "CAM-18"
+            },
+            "CAM-25": {
+                "domain": "Central America",
+                "domain_id": "CAM-25"
+            },
+            "CAM-25i": {
+                "domain": "Central America",
+                "domain_id": "CAM-25i"
+            },
+            "CAM-50": {
+                "domain": "Central America",
+                "domain_id": "CAM-50"
+            },
+            "CAM-50i": {
+                "domain": "Central America",
+                "domain_id": "CAM-50i"
+            },
+            "CAS-12": {
+                "domain": "Central Asia",
+                "domain_id": "CAS-12"
+            },
+            "CAS-12i": {
+                "domain": "Central Asia",
+                "domain_id": "CAS-12i"
+            },
+            "CAS-25": {
+                "domain": "Central Asia",
+                "domain_id": "CAS-25"
+            },
+            "CAS-25i": {
+                "domain": "Central Asia",
+                "domain_id": "CAS-25i"
+            },
+            "CAS-50": {
+                "domain": "Central Asia",
+                "domain_id": "CAS-50"
+            },
+            "CAS-50i": {
+                "domain": "Central Asia",
+                "domain_id": "CAS-50i"
+            },
+            "CEUX-3": {
+                "domain": "Central Europe Extended",
+                "domain_id": "CEUX-3"
+            },
+            "EAS-12": {
+                "domain": "East Asia",
+                "domain_id": "EAS-12"
+            },
+            "EAS-12i": {
+                "domain": "East Asia",
+                "domain_id": "EAS-12i"
+            },
+            "EAS-25": {
+                "domain": "East Asia",
+                "domain_id": "EAS-25"
+            },
+            "EAS-25i": {
+                "domain": "East Asia",
+                "domain_id": "EAS-25i"
+            },
+            "EAS-50": {
+                "domain": "East Asia",
+                "domain_id": "EAS-50"
+            },
+            "EAS-50i": {
+                "domain": "East Asia",
+                "domain_id": "EAS-50i"
+            },
+            "EUR-12": {
+                "domain": "Europe",
+                "domain_id": "EUR-12"
             },
             "EUR-12i": {
                 "domain": "Europe",
                 "domain_id": "EUR-12i"
             },
+            "EUR-25": {
+                "domain": "Europe",
+                "domain_id": "EUR-25"
+            },
+            "EUR-25i": {
+                "domain": "Europe",
+                "domain_id": "EUR-25i"
+            },
+            "EUR-50": {
+                "domain": "Europe",
+                "domain_id": "EUR-50"
+            },
+            "EUR-50i": {
+                "domain": "Europe",
+                "domain_id": "EUR-50i"
+            },
+            "MED-12": {
+                "domain": "Mediterranean",
+                "domain_id": "MED-12"
+            },
+            "MED-12i": {
+                "domain": "Mediterranean",
+                "domain_id": "MED-12i"
+            },
+            "MED-25": {
+                "domain": "Mediterranean",
+                "domain_id": "MED-25"
+            },
+            "MED-25i": {
+                "domain": "Mediterranean",
+                "domain_id": "MED-25i"
+            },
+            "MED-50": {
+                "domain": "Mediterranean",
+                "domain_id": "MED-50"
+            },
+            "MED-50i": {
+                "domain": "Mediterranean",
+                "domain_id": "MED-50i"
+            },
+            "MNA-12": {
+                "domain": "Middle East and North Africa",
+                "domain_id": "MNA-12"
+            },
+            "MNA-12i": {
+                "domain": "Middle East and North Africa",
+                "domain_id": "MNA-12i"
+            },
+            "MNA-25": {
+                "domain": "Middle East and North Africa",
+                "domain_id": "MNA-25"
+            },
+            "MNA-25i": {
+                "domain": "Middle East and North Africa",
+                "domain_id": "MNA-25i"
+            },
+            "MNA-50": {
+                "domain": "Middle East and North Africa",
+                "domain_id": "MNA-50"
+            },
+            "MNA-50i": {
+                "domain": "Middle East and North Africa",
+                "domain_id": "MNA-50i"
+            },
+            "NAM-12": {
+                "domain": "North America",
+                "domain_id": "NAM-12"
+            },
+            "NAM-12i": {
+                "domain": "North America",
+                "domain_id": "NAM-12i"
+            },
+            "NAM-25": {
+                "domain": "North America",
+                "domain_id": "NAM-25"
+            },
+            "NAM-25i": {
+                "domain": "North America",
+                "domain_id": "NAM-25i"
+            },
+            "NAM-50": {
+                "domain": "North America",
+                "domain_id": "NAM-50"
+            },
+            "NAM-50i": {
+                "domain": "North America",
+                "domain_id": "NAM-50i"
+            },
+            "NSEA-3": {
+                "domain": "North Sea",
+                "domain_id": "NSEA-3"
+            },
+            "PARIS-3": {
+                "domain": "Paris",
+                "domain_id": "PARIS-3"
+            },
+            "SAM-12": {
+                "domain": "South America",
+                "domain_id": "SAM-12"
+            },
+            "SAM-12i": {
+                "domain": "South America",
+                "domain_id": "SAM-12i"
+            },
+            "SAM-25": {
+                "domain": "South America",
+                "domain_id": "SAM-25"
+            },
+            "SAM-25i": {
+                "domain": "South America",
+                "domain_id": "SAM-25i"
+            },
+            "SAM-50": {
+                "domain": "South America",
+                "domain_id": "SAM-50"
+            },
+            "SAM-50i": {
+                "domain": "South America",
+                "domain_id": "SAM-50i"
+            },
+            "SEA-12": {
+                "domain": "South East Asia",
+                "domain_id": "SEA-12"
+            },
+            "SEA-12i": {
+                "domain": "South East Asia",
+                "domain_id": "SEA-12i"
+            },
+            "SEA-25": {
+                "domain": "South East Asia",
+                "domain_id": "SEA-25"
+            },
             "SEA-25i": {
                 "domain": "South East Asia",
                 "domain_id": "SEA-25i"
+            },
+            "WAS-12": {
+                "domain": "South Asia",
+                "domain_id": "WAS-12"
+            },
+            "WAS-12i": {
+                "domain": "South Asia",
+                "domain_id": "WAS-12i"
+            },
+            "WAS-18": {
+                "domain": "South Asia",
+                "domain_id": "WAS-18"
+            },
+            "WAS-25": {
+                "domain": "South Asia",
+                "domain_id": "WAS-25"
+            },
+            "WAS-25i": {
+                "domain": "South Asia",
+                "domain_id": "WAS-25i"
+            },
+            "WAS-50": {
+                "domain": "South Asia",
+                "domain_id": "WAS-50"
+            },
+            "WAS-50i": {
+                "domain": "South Asia",
+                "domain_id": "WAS-50i"
             }
         },
         "institution_id": {
+            "AUTH": "Department of Meteorology and Climatology, Aristotle University of Thessaloniki, Thessaloniki, Greece",
             "BAS": "British Antarctic Survey, Cambridge, United Kingdom",
             "BCCR-UCAN": "BCCR [Bjerknes Center for Climate Research (BCCR), NORCE Norwegian Research Center, Bergen, Norway]; UCAN [Instituto de Fisica de Cantabria (IFCA), CSIC-Universidad de Cantabria, Santander, Spain]",
             "BOM": "Bureau of Meteorology, Melbourne, Australia",
             "CCCma": "Canadian Centre for Climate Modelling and Analysis, Environment and Climate Change Canada, Victoria (British Columbia), Canada",
             "CESAM-UA": "Center for Environmental and Marine Studies (CESAM), Aveiro University (UA), Aveiro, Portugal",
+            "CESGA": "Galicia Supercomputing Center (CESGA), Climate System Research Unit, Santiago de Compostela (Galicia), Spain",
             "CLMcom-AWI": "Climate Limited-area Modelling Community (CLMcom) partner: Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Potsdam, Germany",
             "CLMcom-BTU": "Climate Limited-area Modelling Community (CLMcom) partner: Brandenburgische Technische Universitaet Cottbus-Senftenberg, Cottbus, Germany",
             "CLMcom-CMCC": "Climate Limited-area Modelling Community (CLMcom) partner: Euro-Mediterranean Center on Climate Change (CMCC Foundation), Caserta, Italy",
@@ -263,8 +387,14 @@
             "CLMcom-KIT": "Climate Limited-area Modelling Community (CLMcom) partner: Karlsruhe Institute of Technology, Eggenstein-Leopoldshafen, Germany",
             "CLMcom-KUL": "Climate Limited-area Modelling Community (CLMcom) partner: KU Leuven, Leuven, Belgium",
             "CLMcom-LIST": "Climate Limited-area Modelling Community (CLMcom) partner: Luxembourg Institute of Science and Technology, Esch-sur-Alzette, Luxembourg",
+            "CLMcom-WEGC": "Climate Limited-area Modelling Community (CLMcom) partner: Wegener Center for Climate and Global Change, University of Graz, Graz, Austria",
+            "CMCC-ESYDA": "Earth System Modelling and Data Assimilation (ESYDA) division, Euro-Mediterranean Center on Climate Change (CMCC Foundation), Bologna, Italy,",
+            "CNR-ISAC": "Italian National Research Council, Institute of Atmospheric Sciences and Climate, Lecce, Italy",
             "CNRM": "Centre National de Recherches Meteorologiques, Toulouse, France",
             "CNRM-MF": "CNRM [Centre National de Recherches Meteorologiques, Toulouse, France]; MF [Meteo France, Toulouse, France]",
+            "CORNELL": "Cornell University, Ithaca (New York), USA",
+            "CSIRO": "Commonwealth Scientific and Industrial Research Organisation, Canberra, Australia",
+            "CYI": "Climate and Atmosphere Research Center (CARE-C), The Cyprus Institute, Nicosia, Cyprus",
             "DWD-BSH": "DWD [Deutscher Wetterdienst, Offenbach am Main, Germany]; BSH [Bundesamt fuer Seeschifffahrt und Hydrographie, Hamburg, Germany]",
             "ENEA": "Italian National Agency for New Technologies, Energy and the Environment, Rome, Italy",
             "GERICS": "Climate Service Center Germany, Helmholtz Centre hereon GmbH, Hamburg, Germany",
@@ -272,8 +402,11 @@
             "HCLIMcom-METNo": "HARMONIE Climate Modelling Community (HCLIMcom) partner: Norwegian Meteorological Institute (METNo), Oslo, Norway",
             "HCLIMcom-SMHI": "HARMONIE Climate Modelling Community (HCLIMcom) partner: Swedish Meteorological and Hydrological Institute (SMHI), Norrkoping, Sweden",
             "ICTP": "The Abdus Salam International Centre for Theoretical Physics, Trieste, Italy",
+            "IDL-FCUL": "Instituto Dom Luiz, Faculdade de Ciencias, Universidade de Lisboa, Lisboa, Portugal",
+            "IFCA": "Instituto de Fisica de Cantabria (IFCA), CSIC-Universidad de Cantabria, Santander, Spain",
             "IMWM": "Institute of Meteorology and Water Management, Warsaw, Poland",
             "IRD-MF": "IRD [Institut de Recherche pour le Developpement, Noumea (New Caledonia), France]; MF [Meteo France, Toulouse, France]",
+            "IUM-FDU": "IUM [Institute of Urban Meteorology, China Meteorological Administration,  Beijing, China]; FDU [Fudan University, Shanghai, China]",
             "KNMI": "Royal Netherlands Meteorological Institute, De Bilt, The Netherlands",
             "MOHC": "Met Office Hadley Centre, Exeter, UK",
             "NCAR": "NSF National Center for Atmospheric Research, Boulder (Colorado), USA",
@@ -282,7 +415,13 @@
             "NORCE-BCCR": "NORCE [NORCE Norwegian Research Centre, Bergen, Norway]; BCCR [Bjerknes Centre for Climate Research, Bergen, Norway]",
             "OURANOS": "Ouranos Consortium, Montreal (Quebec), Canada",
             "RMIB-UGent": "RMIB [Royal Meteorological Institute of Belgium, Brussels, Belgium]; UGent [Ghent University, Ghent, Belgium]",
+            "RU-CORE": "Ramkhamhaeng University Center Of Regional Climate Change and Renewable Energy (RU-CORE), Bangkok, Thailand",
+            "SENAMHI-PER": "National Meteorology and Hydrology Service of Peru, Lima, Peru",
+            "TASK-IMWM": "TASK [Centre of Informatics TASK, Gdansk University of Technology, Gdansk, Poland]; IMWM [Institute of Meteorology and Water Management, Warsaw, Poland]",
             "UBA-CIMA-IFAECI": "UBA [Universidad de Buenos Aires, C. A. Buenos Aires (CABA), Argentina]; CIMA [Centro de Investigaciones del Mar y la Atmosfera, C. A. Buenos Aires (CABA), Argentina]; IFAECI [Instituto Franco-Argentino sobre Estudios de Clima y sus Impactos, C. A. Buenos Aires (CABA), Argentina]",
+            "ULL": "Universidad de La Laguna, La Laguna (Canary Islands), Spain",
+            "UNIST": "Ulsan National Institute of Science and Technology, Ulsan, South Korea",
+            "UNSW-CCRC": "Climate Change Research Centre, University of New South Wales, Sydney, Australia",
             "UQ-DEC": "UQ [University of Queensland, Brisbane, Australia]; DEC [Department of Energy and Climate, Brisbane, Australia]",
             "UU-IMAU": "Utrecht University, Institute for Marine and Atmospheric Research Utrecht (IMAU), Utrecht, The Netherlands"
         },
@@ -1264,7 +1403,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "ALARO1-SFX",
                 "source_type": "ARCM",
-                "source": "ALARO1-SFX regional climate model, ALARO1 (ALadin-AROme) cycle 43T2 with SURFEX v8.0 (2024)"
+                "source": [
+                    "ALARO1-SFX regional climate model, ALARO1 (ALadin-AROme) cycle 43T2 with SURFEX v8.0 (2024)",
+                    "ALARO1-SFX regional climate model, ALARO1 (ALadin-AROme) cycle 43T2 with SURFEX v8.0"
+                ]
             },
             "BARPA-R1-NN": {
                 "activity_participation": [
@@ -1280,7 +1422,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "BARPA-R1-NN",
                 "source_type": "ARCM",
-                "source": "Bureau of Meteorology Atmospheric Regional Projections for Australia (BARPA) Regional Climate Model version 1 with Newtonian nudging (2022)"
+                "source": [
+                    "Bureau of Meteorology Atmospheric Regional Projections for Australia (BARPA) Regional Climate Model version 1 with Newtonian nudging (2022)",
+                    "Bureau of Meteorology Atmospheric Regional Projections for Australia (BARPA) Regional Climate Model version 1 with Newtonian nudging"
+                ]
             },
             "CCAM-v2105": {
                 "activity_participation": [
@@ -1296,7 +1441,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "CCAM-v2105",
                 "source_type": "AGCM",
-                "source": "Conformal Cubic Atmospheric Model version 2105 (2022)"
+                "source": [
+                    "Conformal Cubic Atmospheric Model version 2105 (2022)",
+                    "Conformal Cubic Atmospheric Model version 2105"
+                ]
             },
             "CCAM-v2112": {
                 "activity_participation": [
@@ -1312,7 +1460,67 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "CCAM-v2112",
                 "source_type": "AGCM",
-                "source": "Conformal Cubic Atmospheric Model version 2112 (2022)"
+                "source": [
+                    "Conformal Cubic Atmospheric Model version 2112 (2022)",
+                    "Conformal Cubic Atmospheric Model version 2112"
+                ]
+            },
+            "CCAM-v2307conv17-SN": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "UNSW-CCRC"
+                ],
+                "label": "CCAM-v2307conv17-SN",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "CCAM-v2307conv17-SN",
+                "source_type": "AGCM",
+                "source": [
+                    "Conformal Cubic Atmospheric Model version 2307 configuration 2017, with spectral nudging (2023)",
+                    "Conformal Cubic Atmospheric Model version 2307 configuration 2017, with spectral nudging"
+                ]
+            },
+            "CCAM-v2307conv21-SN": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "UNSW-CCRC"
+                ],
+                "label": "CCAM-v2307conv21-SN",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "CCAM-v2307conv21-SN",
+                "source_type": "AGCM",
+                "source": [
+                    "Conformal Cubic Atmospheric Model version 2307 configuration 2021, with spectral nudging (2023)",
+                    "Conformal Cubic Atmospheric Model version 2307 configuration 2021, with spectral nudging"
+                ]
+            },
+            "CCAM-v2507-SN": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "UNSW-CCRC"
+                ],
+                "label": "CCAM-v2507-SN",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "CCAM-v2507-SN",
+                "source_type": "AGCM",
+                "source": [
+                    "Conformal Cubic Atmospheric Model version 2507 with spectral nudging (2025)",
+                    "Conformal Cubic Atmospheric Model version 2507 with spectral nudging"
+                ]
             },
             "CCAMoc-v2112": {
                 "activity_participation": [
@@ -1328,7 +1536,48 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "CCAMoc-v2112",
                 "source_type": "AOGCM",
-                "source": "Conformal Cubic Atmospheric Model, ocean-coupled configuration, version 2112 (2022)"
+                "source": [
+                    "Conformal Cubic Atmospheric Model, ocean-coupled configuration, version 2112 (2022)",
+                    "Conformal Cubic Atmospheric Model, ocean-coupled configuration, version 2112"
+                ]
+            },
+            "CCAMoc-v2203-SN": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "CSIRO"
+                ],
+                "label": "CCAMoc v2203 SN",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "CCAMoc-v2203-SN",
+                "source_type": "AOGCM",
+                "source": [
+                    "Conformal Cubic Atmospheric Model, ocean-coupled configuration, version 2203 with spectral nudging (2022)",
+                    "Conformal Cubic Atmospheric Model, ocean-coupled configuration, version 2203 with spectral nudging"
+                ]
+            },
+            "CCLM5-0-9-NEMOMED12-3-6": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "CLMcom-GUF"
+                ],
+                "label": "CCLM5-0-9-NEMOMED12-3-6",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "CCLM5-0-9-NEMOMED12-3-6",
+                "source_type": "AORCM",
+                "source": [
+                    "COSMO-CLM v5 coupled via OASIS with NEMO-MED v3.6 (river discharge with TRIP) on an extended EURO-CORDEX domain. (2021)",
+                    "COSMO-CLM v5 coupled via OASIS with NEMO-MED v3.6 (river discharge with TRIP) on an extended EURO-CORDEX domain."
+                ]
             },
             "CCLM6-0-1": {
                 "activity_participation": [
@@ -1349,7 +1598,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "CCLM6-0-1",
                 "source_type": "ARCM",
-                "source": "COSMO model in climate mode (COSMO-CLM), Version 6.0 clm 1 (2021)"
+                "source": [
+                    "COSMO model in climate mode (COSMO-CLM), Version 6.0 clm 1 (2021)",
+                    "COSMO model in climate mode (COSMO-CLM), Version 6.0 clm 1"
+                ]
             },
             "CCLM6-0-1-URB": {
                 "activity_participation": [
@@ -1365,7 +1617,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "CCLM6-0-1-URB",
                 "source_type": "ARCM",
-                "source": "COSMO model in climate mode (COSMO-CLM), Version 6.0 clm 1 with Urban Parametrization (2021)"
+                "source": [
+                    "COSMO model in climate mode (COSMO-CLM), Version 6.0 clm 1 with Urban Parametrization (2021)",
+                    "COSMO model in climate mode (COSMO-CLM), Version 6.0 clm 1 with Urban Parametrization"
+                ]
             },
             "CCLM6-0-1-URB-ESG": {
                 "activity_participation": [
@@ -1381,7 +1636,29 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "CCLM6-0-1-URB-ESG",
                 "source_type": "ARCM",
-                "source": "COSMO model in climate mode (COSMO-CLM), Version 6.0 clm 1 with Urban Parametrization and ECOCLIMAP-Second Generation land cover (2021)"
+                "source": [
+                    "COSMO model in climate mode (COSMO-CLM), Version 6.0 clm 1 with Urban Parametrization and ECOCLIMAP-Second Generation land cover (2021)",
+                    "COSMO model in climate mode (COSMO-CLM), Version 6.0 clm 1 with Urban Parametrization and ECOCLIMAP-Second Generation land cover"
+                ]
+            },
+            "CMCC-MedESM1": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "CMCC-ESYDA"
+                ],
+                "label": "CMCC-MedESM version 1",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "CMCC-MedESM1",
+                "source_type": "AORCM",
+                "source": [
+                    "Version 1 of the regional Earth system model (MedESM1) of the Euro-Mediterranean Center on Climate Change (CMCC Foundation) (2027)",
+                    "Version 1 of the regional Earth system model (MedESM1) of the Euro-Mediterranean Center on Climate Change (CMCC Foundation)"
+                ]
             },
             "CNRM-ALADIN64C1": {
                 "activity_participation": [
@@ -1397,7 +1674,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "CNRM-ALADIN64C1",
                 "source_type": "ARCM",
-                "source": "CNRM-ALADIN regional climate model, version 6.4, physics tuning specific for the CAM domain (C1) (2025)"
+                "source": [
+                    "CNRM-ALADIN regional climate model, version 6.4, physics tuning specific for the CAM domain (C1) (2025)",
+                    "CNRM-ALADIN regional climate model, version 6.4, physics tuning specific for the CAM domain (C1)"
+                ]
             },
             "CNRM-ALADIN64E1": {
                 "activity_participation": [
@@ -1413,7 +1693,29 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "CNRM-ALADIN64E1",
                 "source_type": "ARCM",
-                "source": "CNRM-ALADIN regional climate model, version 6.4 E1 (2023)"
+                "source": [
+                    "CNRM-ALADIN regional climate model, version 6.4 E1 (2023)",
+                    "CNRM-ALADIN regional climate model, version 6.4 E1"
+                ]
+            },
+            "CNRM-ALADIN64M1-SN": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "CNRM"
+                ],
+                "label": "CNRM-ALADIN64M1-SN",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "CNRM-ALADIN64M1-SN",
+                "source_type": "ARCM",
+                "source": [
+                    "CNRM-ALADIN regional climate model, version 6.4 M1 (Med-CORDEX domain) with spectral nudging (2023)",
+                    "CNRM-ALADIN regional climate model, version 6.4 M1 (Med-CORDEX domain) with spectral nudging"
+                ]
             },
             "CNRM-ALADIN64P1": {
                 "activity_participation": [
@@ -1429,9 +1731,12 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "CNRM-ALADIN64P1",
                 "source_type": "ARCM",
-                "source": "CNRM-ALADIN regional climate model, version 6.4 P1 (2023)"
+                "source": [
+                    "CNRM-ALADIN regional climate model, version 6.4 P1 (2023)",
+                    "CNRM-ALADIN regional climate model, version 6.4 P1"
+                ]
             },
-            "CNRM-RCSM6": {
+            "CNRM-RCSM6-SN": {
                 "activity_participation": [
                     "DD"
                 ],
@@ -1443,11 +1748,14 @@
                 ],
                 "label": "CNRM-RCSM version 6",
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
-                "source_id": "CNRM-RCSM6",
+                "source_id": "CNRM-RCSM6-SN",
                 "source_type": "AORCM",
-                "source": "Version 6 of the fully-coupled Regional Climate System Model (RCSM) of the Centre National de Recherches Meteorologiques (CNRM) (2019)"
+                "source": [
+                    "Version 6 of the fully-coupled Regional Climate System Model (RCSM) of the Centre National de Recherches Meteorologiques (CNRM) (2019)",
+                    "Version 6 of the fully-coupled Regional Climate System Model (RCSM) of the Centre National de Recherches Meteorologiques (CNRM)"
+                ]
             },
-            "CNRM-RCSM6B": {
+            "CNRM-RCSM6B-SN": {
                 "activity_participation": [
                     "DD"
                 ],
@@ -1459,9 +1767,12 @@
                 ],
                 "label": "CNRM-RCSM6 version 6B",
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
-                "source_id": "CNRM-RCSM6B",
+                "source_id": "CNRM-RCSM6B-SN",
                 "source_type": "AORCM",
-                "source": "Version 6B of the fully-coupled Regional Climate System Model (RCSM) of the Centre National de Recherches Meteorologiques (CNRM) (2024)"
+                "source": [
+                    "Version 6B of the fully-coupled Regional Climate System Model (RCSM) of the Centre National de Recherches Meteorologiques (CNRM) (2024)",
+                    "Version 6B of the fully-coupled Regional Climate System Model (RCSM) of the Centre National de Recherches Meteorologiques (CNRM)"
+                ]
             },
             "CRCM5-SN": {
                 "activity_participation": [
@@ -1477,7 +1788,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "CRCM5-SN",
                 "source_type": "ARCM",
-                "source": "Canadian Regional Climate Model version 5 (2015)"
+                "source": [
+                    "Canadian Regional Climate Model version 5 (2015)",
+                    "Canadian Regional Climate Model version 5"
+                ]
             },
             "CanRCM5": {
                 "activity_participation": [
@@ -1493,7 +1807,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "CanRCM5",
                 "source_type": "ARCM",
-                "source": "Canadian Regional Climate Model version 5 (2025)"
+                "source": [
+                    "Canadian Regional Climate Model version 5 (2025)",
+                    "Canadian Regional Climate Model version 5"
+                ]
             },
             "CanRCM5-SN": {
                 "activity_participation": [
@@ -1509,7 +1826,29 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "CanRCM5-SN",
                 "source_type": "ARCM",
-                "source": "Canadian Regional Climate Model version 5, with spectral nudging (2024)"
+                "source": [
+                    "Canadian Regional Climate Model version 5, with spectral nudging (2024)",
+                    "Canadian Regional Climate Model version 5, with spectral nudging"
+                ]
+            },
+            "ENEA-REG2": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "ENEA"
+                ],
+                "label": "ENEA-REG v2.0",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "ENEA-REG2",
+                "source_type": "AORCM",
+                "source": [
+                    "The ENEA-REG regional Earth System Model version 2.0 based on WRF v4.2.2, MITgcm z67, and HD v1.0.2 (2021)",
+                    "The ENEA-REG regional Earth System Model version 2.0 based on WRF v4.2.2, MITgcm z67, and HD v1.0.2"
+                ]
             },
             "ENEA-REG3": {
                 "activity_participation": [
@@ -1525,7 +1864,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "ENEA-REG3",
                 "source_type": "AORCM",
-                "source": "The ENEA-REG regional Earth System Model version 3.0 based on WRF v4.2.2, MITgcm z67, and CaMa-Flood v4.10 (2021)"
+                "source": [
+                    "The ENEA-REG regional Earth System Model version 3.0 based on WRF v4.2.2, MITgcm z67, and CaMa-Flood v4.10 (2021)",
+                    "The ENEA-REG regional Earth System Model version 3.0 based on WRF v4.2.2, MITgcm z67, and CaMa-Flood v4.10"
+                ]
             },
             "GCOAST-AHOI1-1": {
                 "activity_participation": [
@@ -1541,7 +1883,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "GCOAST-AHOI1-1",
                 "source_type": "AORCM",
-                "source": "Regional coupled atmosphere-hydrological discharge-ocean-sea ice model based on COSMO-CLM v6.0, HD v5.2 and NEMO v3.6 for the North and Baltic Sea (2024)"
+                "source": [
+                    "Regional coupled atmosphere-hydrological discharge-ocean-sea ice model based on COSMO-CLM v6.0, HD v5.2 and NEMO v3.6 for the North and Baltic Sea (2024)",
+                    "Regional coupled atmosphere-hydrological discharge-ocean-sea ice model based on COSMO-CLM v6.0, HD v5.2 and NEMO v3.6 for the North and Baltic Sea"
+                ]
             },
             "GCOAST-AHOI2-1": {
                 "activity_participation": [
@@ -1557,7 +1902,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "GCOAST-AHOI2-1",
                 "source_type": "AORCM",
-                "source": "Regional coupled atmosphere-hydrological discharge-ocean-sea ice model based on icon-2024.07, HD v5.2 and NEMO v3.6 for the North and Baltic Sea (2024)"
+                "source": [
+                    "Regional coupled atmosphere-hydrological discharge-ocean-sea ice model based on icon-2024.07, HD v5.2 and NEMO v3.6 for the North and Baltic Sea (2024)",
+                    "Regional coupled atmosphere-hydrological discharge-ocean-sea ice model based on icon-2024.07, HD v5.2 and NEMO v3.6 for the North and Baltic Sea"
+                ]
             },
             "GCOAST-AHOIB1-1": {
                 "activity_participation": [
@@ -1573,7 +1921,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "GCOAST-AHOIB1-1",
                 "source_type": "AORCM",
-                "source": "Regional coupled atmosphere-hydrological discharge-ocean-sea ice-biogeochemical model based on COSMO-CLM v6.0, HD v5.2, NEMO v3.6 and ECOSMO for the North and Baltic Sea (2024)"
+                "source": [
+                    "Regional coupled atmosphere-hydrological discharge-ocean-sea ice-biogeochemical model based on COSMO-CLM v6.0, HD v5.2, NEMO v3.6 and ECOSMO for the North and Baltic Sea (2024)",
+                    "Regional coupled atmosphere-hydrological discharge-ocean-sea ice-biogeochemical model based on COSMO-CLM v6.0, HD v5.2, NEMO v3.6 and ECOSMO for the North and Baltic Sea"
+                ]
             },
             "HCLIM43-ALADIN": {
                 "activity_participation": [
@@ -1591,7 +1942,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "HCLIM43-ALADIN",
                 "source_type": "ARCM",
-                "source": "HARMONIE Climate model cycle 43 with ALADIN physics (2022)"
+                "source": [
+                    "HARMONIE Climate model cycle 43 with ALADIN physics (2022)",
+                    "HARMONIE Climate model cycle 43 with ALADIN physics"
+                ]
             },
             "HadREM3-GA7-05": {
                 "activity_participation": [
@@ -1607,7 +1961,29 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "HadREM3-GA7-05",
                 "source_type": "ARCM",
-                "source": "Hadley Centre Regional Model using Global Atmosphere version 7-05 (2018)"
+                "source": [
+                    "Hadley Centre Regional Model using Global Atmosphere version 7-05 (2018)",
+                    "Hadley Centre Regional Model using Global Atmosphere version 7-05"
+                ]
+            },
+            "ICON-CLM-2-6-6-1-1": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "CLMcom-AWI"
+                ],
+                "label": "ICON-CLM-2-6-6-1-1",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "ICON-CLM-2-6-6-1-1",
+                "source_type": "ARCM",
+                "source": [
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 2-6-6-1-1 (2023)",
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 2-6-6-1-1"
+                ]
             },
             "ICON-CLM-202401-1-1": {
                 "activity_participation": [
@@ -1623,7 +1999,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "ICON-CLM-202401-1-1",
                 "source_type": "ARCM",
-                "source": "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202401-1-1 (2024)"
+                "source": [
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202401-1-1 (2024)",
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202401-1-1"
+                ]
             },
             "ICON-CLM-202407-1-1": {
                 "activity_participation": [
@@ -1640,13 +2019,98 @@
                     "CLMcom-GERICS",
                     "CLMcom-Hereon",
                     "CLMcom-IMWM",
-                    "CLMcom-KIT"
+                    "CLMcom-KIT",
+                    "CLMcom-WEGC"
                 ],
                 "label": "ICON-CLM-202407-1-1",
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "ICON-CLM-202407-1-1",
                 "source_type": "ARCM",
-                "source": "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202407-1-1 (2024)"
+                "source": [
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202407-1-1 (2024)",
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202407-1-1"
+                ]
+            },
+            "ICON-CLM-202407-1-2": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "CLMcom-DWD"
+                ],
+                "label": "ICON-CLM-202407-1-2",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "ICON-CLM-202407-1-2",
+                "source_type": "ARCM",
+                "source": [
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202407-1-2 (2025)",
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202407-1-2"
+                ]
+            },
+            "ICON-CLM-202407-1-3": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "CLMcom-ETH",
+                    "CLMcom-IMWM"
+                ],
+                "label": "ICON-CLM-202407-1-3",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "ICON-CLM-202407-1-3",
+                "source_type": "ARCM",
+                "source": [
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202407-1-3 (2025)",
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202407-1-3"
+                ]
+            },
+            "ICON-CLM-202410-2-1-x2yn2": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "CLMcom-DWD",
+                    "CLMcom-GERICS",
+                    "CLMcom-Hereon",
+                    "CLMcom-KIT",
+                    "CLMcom-BTU"
+                ],
+                "label": "ICON-CLM-202410-2-1-x2yn2",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "ICON-CLM-202410-2-1-x2yn2",
+                "source_type": "ARCM",
+                "source": [
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202410-2-1, convection-permitting setup with two-step nesting (x2yn2), intermediate ICON-CLM-202407-1-1 simulation at 12 km spatial grid spacing using convection parameterization (2025)",
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202410-2-1, convection-permitting setup with two-step nesting (x2yn2), intermediate ICON-CLM-202407-1-1 simulation at 12 km spatial grid spacing using convection parameterization"
+                ]
+            },
+            "ICON-CLM-202604-1-1": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "CLMcom-CMCC"
+                ],
+                "label": "ICON-CLM-202604-1-1",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "ICON-CLM-202604-1-1",
+                "source_type": "ARCM",
+                "source": [
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202604-1-1 (2026)",
+                    "ICON model in Climate Limited-area Mode (ICON-CLM), Version 202604-1-1"
+                ]
             },
             "MedX-CM": {
                 "activity_participation": [
@@ -1662,7 +2126,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "MedX-CM",
                 "source_type": "AORCM",
-                "source": "The NKUA regional Coupled Model for the eXtended Mediterranean region (2025)"
+                "source": [
+                    "The NKUA regional Coupled Model for the eXtended Mediterranean region (2025)",
+                    "The NKUA regional Coupled Model for the eXtended Mediterranean region"
+                ]
             },
             "MetUM": {
                 "activity_participation": [
@@ -1678,7 +2145,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "MetUM",
                 "source_type": "ARCM",
-                "source": "UK Met Office Unified Model version 13.0 (2022)"
+                "source": [
+                    "UK Met Office Unified Model version 13.0 (2022)",
+                    "UK Met Office Unified Model version 13.0"
+                ]
             },
             "RACMO23E": {
                 "activity_participation": [
@@ -1694,9 +2164,12 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "RACMO23E",
                 "source_type": "ARCM",
-                "source": "The KNMI Regional Climate Model RACMO, version 23E (2022)"
+                "source": [
+                    "The KNMI Regional Climate Model RACMO, version 23E (2022)",
+                    "The KNMI Regional Climate Model RACMO, version 23E"
+                ]
             },
-            "RACMO24P": {
+            "RACMO24p-NN": {
                 "activity_participation": [
                     "DD"
                 ],
@@ -1706,11 +2179,14 @@
                 "institution_id": [
                     "UU-IMAU"
                 ],
-                "label": "RACMO24P",
+                "label": "RACMO24p-NN",
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
-                "source_id": "RACMO24P",
+                "source_id": "RACMO24p-NN",
                 "source_type": "ARCM",
-                "source": "The KNMI and UU/IMAU Regional Climate Model RACMO, version 24P, based on IFS cy47r1 physics and with detailed parameterizations of glaciated surfaces (2024)"
+                "source": [
+                    "The KNMI and UU/IMAU Regional Climate Model RACMO, version 24P, based on IFS cy47r1 physics and with detailed parameterizations of glaciated surfaces (2024)",
+                    "The KNMI and UU/IMAU Regional Climate Model RACMO, version 24P, based on IFS cy47r1 physics and with detailed parameterizations of glaciated surfaces"
+                ]
             },
             "REMO2020-2-2": {
                 "activity_participation": [
@@ -1726,7 +2202,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "REMO2020-2-2",
                 "source_type": "ARCM",
-                "source": "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing and Fresh-water Lake model (FLake) (2023)"
+                "source": [
+                    "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing and Fresh-water Lake model (FLake) (2023)",
+                    "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing and Fresh-water Lake model (FLake)"
+                ]
             },
             "REMO2020-2-2-MR2": {
                 "activity_participation": [
@@ -1742,7 +2221,29 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "REMO2020-2-2-MR2",
                 "source_type": "ARCM",
-                "source": "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MERRA-2 aerosol climatology and Fresh-water Lake model (FLake) (2023)"
+                "source": [
+                    "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MERRA-2 aerosol climatology and Fresh-water Lake model (FLake) (2023)",
+                    "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MERRA-2 aerosol climatology and Fresh-water Lake model (FLake)"
+                ]
+            },
+            "REMO2020-2-2-TEB": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "GERICS"
+                ],
+                "label": "REMO2020 v2.2 TEBv3",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "REMO2020-2-2-TEB",
+                "source_type": "ARCM",
+                "source": [
+                    "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing, Fresh-water Lake model (FLake) and Town Energy Model v3 (2023)",
+                    "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing, Fresh-water Lake model (FLake) and Town Energy Model v3"
+                ]
             },
             "REMO2020-2-2-iMOVE": {
                 "activity_participation": [
@@ -1758,7 +2259,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "REMO2020-2-2-iMOVE",
                 "source_type": "ARCM",
-                "source": "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing, Fresh-water Lake model (FLake) and interactive Vegetation (iMOVE, static) (2023)"
+                "source": [
+                    "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing, Fresh-water Lake model (FLake) and interactive Vegetation (iMOVE, static) (2023)",
+                    "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing, Fresh-water Lake model (FLake) and interactive Vegetation (iMOVE, static)"
+                ]
             },
             "REMO2020-2-2-iMOVE-LUC": {
                 "activity_participation": [
@@ -1774,7 +2278,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "REMO2020-2-2-iMOVE-LUC",
                 "source_type": "ARCM",
-                "source": "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing, Fresh-water Lake model (FLake) and interactive Vegetation (iMOVE) with land use change (LUC) from the LUCAS LUC dataset (2023)"
+                "source": [
+                    "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing, Fresh-water Lake model (FLake) and interactive Vegetation (iMOVE) with land use change (LUC) from the LUCAS LUC dataset (2023)",
+                    "Regional Climate Model REMO, version 2.2, hydrostatic configuration with MACv2 aerosol forcing, Fresh-water Lake model (FLake) and interactive Vegetation (iMOVE) with land use change (LUC) from the LUCAS LUC dataset"
+                ]
             },
             "ROAM-NBS": {
                 "activity_participation": [
@@ -1790,7 +2297,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "ROAM-NBS",
                 "source_type": "AORCM",
-                "source": "Regional coupled ocean-atmosphere model based on icon-2024.07 and NEMO4.2.0 for the North and Baltic Sea (2024)"
+                "source": [
+                    "Regional coupled ocean-atmosphere model based on icon-2024.07 and NEMO4.2.0 for the North and Baltic Sea (2024)",
+                    "Regional coupled ocean-atmosphere model based on icon-2024.07 and NEMO4.2.0 for the North and Baltic Sea"
+                ]
             },
             "RegCM-ES1-1": {
                 "activity_participation": [
@@ -1806,7 +2316,29 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "RegCM-ES1-1",
                 "source_type": "AORCM",
-                "source": "The Regional Earth System Model RegCM-ES version 1.1 based on RegCM v5.0, MITgcm v6.9d and CHyM (2025)"
+                "source": [
+                    "The Regional Earth System Model RegCM-ES version 1.1 based on RegCM v5.0, MITgcm v6.9d and CHyM (2025)",
+                    "The Regional Earth System Model RegCM-ES version 1.1 based on RegCM v5.0, MITgcm v6.9d and CHyM"
+                ]
+            },
+            "RegCM4-6-SN": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "UNIST"
+                ],
+                "label": "RegCM4-6-SN",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "RegCM4-6-SN",
+                "source_type": "ARCM",
+                "source": [
+                    "RegCM 4.6.1 with CLM4.5 and spectral nudging, UNIST configuration (2021)",
+                    "RegCM 4.6.1 with CLM4.5 and spectral nudging, UNIST configuration"
+                ]
             },
             "RegCM5-0": {
                 "activity_participation": [
@@ -1822,7 +2354,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "RegCM5-0",
                 "source_type": "ARCM",
-                "source": "The ICTP RegCM version 5 using non hydrostatic MOLOCH dynamical core (2023)"
+                "source": [
+                    "The ICTP RegCM version 5 using non hydrostatic MOLOCH dynamical core (2023)",
+                    "The ICTP RegCM version 5 using non hydrostatic MOLOCH dynamical core"
+                ]
             },
             "RegCM-ES1-1": {
                 "activity_participation": [
@@ -1854,7 +2389,10 @@
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "TSMP1-140-E",
                 "source_type": "ARCM",
-                "source": "Terrestrial Systems Modeling Platform (TSMP1) version 1.4.0: COSMO 5.01 (atm), CLM 3.5.0 (land), ParFlow 3.13.0 (hydro), OASIS3-MCT (coupler) (2023)"
+                "source": [
+                    "Terrestrial Systems Modeling Platform (TSMP1) version 1.4.0: COSMO 5.01 (atm), CLM 3.5.0 (land), ParFlow 3.13.0 (hydro), OASIS3-MCT (coupler) (2023)",
+                    "Terrestrial Systems Modeling Platform (TSMP1) version 1.4.0: COSMO 5.01 (atm), CLM 3.5.0 (land), ParFlow 3.13.0 (hydro), OASIS3-MCT (coupler)"
+                ]
             },
             "WRF451Q": {
                 "activity_participation": [
@@ -1864,13 +2402,102 @@
                     "Registered"
                 ],
                 "institution_id": [
-                    "BCCR-UCAN"
+                    "AUTH",
+                    "BCCR-UCAN",
+                    "CESAM-UA",
+                    "IDL-FCUL"
                 ],
                 "label": "WRF v4.5.1-Q",
                 "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
                 "source_id": "WRF451Q",
                 "source_type": "ARCM",
-                "source": "Weather Research and Forecasting model version 4.5.1, CORDEX WRF Community configuration Q (2022)"
+                "source": [
+                    "Weather Research and Forecasting model version 4.5.1, CORDEX WRF Community configuration Q (2022)",
+                    "Weather Research and Forecasting model version 4.5.1, CORDEX WRF Community configuration Q"
+                ]
+            },
+            "WRF451V": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "SENAMHI-PER"
+                ],
+                "label": "WRF v4.5.1-V",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "WRF451V",
+                "source_type": "ARCM",
+                "source": [
+                    "Weather Research and Forecasting model version 4.5.1, CORDEX WRF Community configuration V (2023)",
+                    "Weather Research and Forecasting model version 4.5.1, CORDEX WRF Community configuration V"
+                ]
+            },
+            "WRF461S-SN": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "NCAR"
+                ],
+                "label": "WRF v4.6.1-S",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "WRF461S-SN",
+                "source_type": "ARCM",
+                "source": [
+                    "Weather Research and Forecasting model version 4.6.1, CORDEX WRF Community configuration S (2024)",
+                    "Weather Research and Forecasting model version 4.6.1, CORDEX WRF Community configuration S"
+                ]
+            },
+            "WRF461T-SN": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "CORNELL"
+                ],
+                "label": "WRF v4.6.1-T SN",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "WRF461T-SN",
+                "source_type": "ARCM",
+                "source": [
+                    "Weather Research and Forecasting model version 4.6.1, CORDEX WRF Community configuration T (2024)",
+                    "Weather Research and Forecasting model version 4.6.1, CORDEX WRF Community configuration T"
+                ]
+            },
+            "WRF461U": {
+                "activity_participation": [
+                    "DD"
+                ],
+                "cohort": [
+                    "Registered"
+                ],
+                "institution_id": [
+                    "CESGA",
+                    "CYI",
+                    "IDL-FCUL",
+                    "IFCA",
+                    "IUM-FDU",
+                    "SENAMHI-PER",
+                    "ULL",
+                    "UNIST"
+                ],
+                "label": "WRF v4.6.1-U",
+                "license": "https://cordex.org/data-access/cordex-cmip6-data/cordex-cmip6-terms-of-use",
+                "source_id": "WRF461U",
+                "source_type": "ARCM",
+                "source": [
+                    "Weather Research and Forecasting model version 4.6.1, CORDEX WRF Community configuration U (2024)",
+                    "Weather Research and Forecasting model version 4.6.1, CORDEX WRF Community configuration U"
+                ]
             }
         },
         "source_type": {
@@ -1889,8 +2516,8 @@
             "yr": "annual mean samples"
         },
         "DRS": {
-            "directory_path_template": "<project_id>/<activity_id>/<domain_id>/<institution_id>/<driving_source_id>/<driving_experiment_id>/<driving_variant_label>/<source_id>/<version_realization>/<frequency>/<variable_id>/<version>",
-            "filename_template": "<variable_id>_<domain_id>_<driving_source_id>_<driving_experiment_id>_<driving_variant_label>_<institution_id>_<source_id>_<version_realization>_<frequency>[_<time_range>].nc"
+            "directory_path_template": "<project_id><activity_id><domain_id><institution_id><driving_source_id><driving_experiment_id><driving_variant_label><source_id><version_realization><frequency><variable_id><version>",
+            "filename_template": "<variable_id><domain_id><driving_source_id><driving_experiment_id><driving_variant_label><institution_id><source_id><version_realization><frequency>"
         },
         "driving_experiment_id": {
             "evaluation": {
@@ -1936,6 +2563,9 @@
         ],
         "driving_variant_label": [
             "r[[:digit:]]\\{1,\\}i[[:digit:]]\\{1,\\}p[[:digit:]]\\{1,\\}f[[:digit:]]\\{1,\\}$"
+        ],
+        "version_realization": [
+            "v[1-9]\\{1,\\}[[:digit:]]\\{0,\\}-r[1-9]\\{1,\\}[[:digit:]]\\{0,\\}$"
         ],
         "Conventions": [
             "CF-1.11"
